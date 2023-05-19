@@ -13,7 +13,8 @@ Your responsibilities as a Data Analyst include:
 4. Applying statistical techniques to explore relationships and gain deeper insights from the data.
 4. Creating interactive dashboards using IBM Cognos Analytics to present the analyzed data in a visually appealing and user-friendly manner.
 6. Developing a compelling presentation to effectively communicate your findings and recommendations based on the data analysis.
-Evaluation
+
+# Evaluation
 Your performance in this capstone project will be evaluated through quizzes in each module and the final project presentation. This evaluation process ensures that you not only acquire the necessary technical skills but also demonstrate your ability to effectively communicate and visualize data-driven insights.
 
 # Repository Structure
@@ -31,7 +32,8 @@ To begin your journey with the Capstone Project - Emerging Skills Analysis, foll
 4. Proceed with each notebook in the given order, executing the code cells and following the instructions.
 5. Complete the quizzes in each module to assess your understanding and progress.
 6. Once you have completed the data analysis and visualization, prepare for the final project presentation by summarizing your key findings and recommendations.
-Acknowledgements
+
+# Acknowledgements
 We would like to express our gratitude to the global IT and business consulting services firm for providing this opportunity to work on such an exciting project. Additionally, we acknowledge the contributions of the open-source community and the developers of the libraries and tools used throughout this project.
 
 Let's embark on this capstone project journey, exploring emerging skills and making valuable contributions to your organization's understanding of future skill requirements in the IT industry!
